@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Docme",
+  "description": "Create high-quality website documentation PDFs from selected pages.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Docme",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "assets/background.js",
+    "type": "module"
+  },
+  "permissions": ["activeTab", "scripting", "storage", "downloads"],
+  "host_permissions": ["<all_urls>"]
+}
