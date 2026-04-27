@@ -1,6 +1,8 @@
 # Docme
 
 Docme is a Chrome extension that turns any website into a clean, black-and-white academic documentation report. It extracts page content, headings, links, metadata, and media references, then generates a chapter-based PDF in a formal report style.
+<img width="517" height="738" alt="image" src="https://github.com/user-attachments/assets/aaa1e886-6e30-4722-a4bd-a6d064a79682" />
+
 
 ## Features
 
